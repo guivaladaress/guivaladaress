@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm Gui Valadares 
+<h1>👋 Hi there, I'm Gui Valadares </h1>
 
 I work as Development Manager, creating application and RPA bots using Python, React.JS, and Amazon Web Services (AWS).
 
 ##
 
-### 🛠️ Tech Skills
+<h2>🛠️ Tech Skills</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GuiValadares-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -22,7 +22,7 @@ I work as Development Manager, creating application and RPA bots using Python, R
 
 ##
 
-### ☁️ Cloud
+<h2>☁️ Cloud</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GuiValadares-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -33,7 +33,7 @@ I work as Development Manager, creating application and RPA bots using Python, R
 
 ##
 
-### 🧑‍💻 IDE
+<h2>🧑‍💻 IDE</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GuiValadares-VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -43,7 +43,7 @@ I work as Development Manager, creating application and RPA bots using Python, R
   
 ##
 
-### 💻 OS
+<h2>💻 OS</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GuiValadares-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -54,12 +54,10 @@ I work as Development Manager, creating application and RPA bots using Python, R
   
 ##
 
-### 👨 Social
+<h2>👨 Social</h2>
  
 <div> 
   <a href="https://www.linkedin.com/in/guivaladares95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/guivaladares_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gui.valadares@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-  
+  <a href = "mailto:gui.valadares@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
